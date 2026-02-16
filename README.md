@@ -1,4 +1,4 @@
-# DNS Administration & Troubleshooting
+# <p align="center">DNS Administration & Troubleshooting
 
 ## Objective
 
