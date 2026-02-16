@@ -1,4 +1,4 @@
-# Practicing with DNS
+# DNS Administration & Troubleshooting
 
 ## Objective
 
