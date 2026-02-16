@@ -1,18 +1,23 @@
 # <p align="center">DNS Administration & Troubleshooting
 
-## Objective
+## Project Summary
 
-Demonstrate DNS record creation, understand client-side DNS caching behavior, and configure CNAME records within an Active Directory environment.
+This project demonstrates DNS record management and troubleshooting within an Active Directory environment. A-records and CNAME records were created, client-side DNS cache behavior was analyzed, and name resolution was validated using diagnostic tools.
 
-This covers:
-- A-record creation
-- Name resolution troubleshooting
-- DNS cache behavior
-- Cache flushing
-- CNAME configuration
+### Languages Used
+- Command Line (ipconfig, nslookup, ping)
 
+### Environments Used
+- Microsoft Azure
+- Windows Server (Domain Controller)
+- Windows 10 (Client Machine)
+
+### Technologies / Services Used
+- Active Directory Integrated DNS
+- Azure Virtual Machines
+- Windows Networking Tools
 ---
-
+# Demonstration
 # Part 1 – A Record Creation
 
 ## Step 1 – Verify Name Resolution Failure
