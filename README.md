@@ -18,13 +18,6 @@ An A-record was created and tested for name resolution, DNS caching behavior was
 ### Technologies Used
 - Active Directory Integrated DNS
 - Windows Networking Tools
-
-### Commands Used
-- `ping`
-- `nslookup`
-- `ipconfig /displaydns`
-- `ipconfig /flushdns`
-
 ---
 
 ## Demonstration
